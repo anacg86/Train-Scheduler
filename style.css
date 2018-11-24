@@ -1,0 +1,31 @@
+#coral, .card-header {
+    background-color: gray;
+}
+
+#trainTitle, #trainSubtitle {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.card-header {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.card-body {
+    background-color: lightgrey;
+}
+
+#submitbtn {
+    background: #e65f35;
+    border: none;
+    float: right;
+    color:white;
+}
